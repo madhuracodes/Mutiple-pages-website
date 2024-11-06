@@ -1,0 +1,29 @@
+body {
+  display: block;
+  margin: 0auto;
+  text-align: center;
+}
+
+p {
+  padding: 15px 20px;
+}
+
+a {
+  padding: 15px 20px;
+  background-color: rgb(209, 160, 24);
+  text-decoration: none;
+  color: black;
+}
+
+.wiki {
+  padding: none;
+  background-color: none;
+}
+
+img {
+  padding: 30px 30px;
+}
+
+footer {
+  padding: 20px;
+}
